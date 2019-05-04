@@ -1,0 +1,6 @@
+com/sathish/java/jaxrs/DoThisExceptionMapper.class
+com/sathish/java/api/MyService.class
+com/sathish/java/services/MyServiceImpl.class
+com/sathish/java/exceptions/DoThisException.class
+com/sathish/java/logging/MyServiceLoggingModule.class
+com/sathish/java/webservices/MyWebService.class
